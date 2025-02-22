@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarrek</h1>
-<h3 align="center">Software Engineer | PHP Developer</h3>
+<h3 align="center">Software Engineer | PHP Developer | LAMP Stack</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
